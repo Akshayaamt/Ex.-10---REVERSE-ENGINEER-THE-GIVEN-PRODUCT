@@ -1,6 +1,6 @@
-# Ex. 10 - REVERSE ENGINEER THE GIVEN PRODUCT
+# Ex. 4 - REVERSE ENGINEER THE GIVEN PRODUCT
 
-### DATE: 18.12.2023
+### DATE: 16.05.2024
 
 ## AIM: 
 To reverse engineering the product and prototyping the same in 3D printer.
@@ -33,7 +33,8 @@ To reverse engineering the product and prototyping the same in 3D printer.
 ![WhatsApp Image 2023-12-24 at 16 41 00_c51f9f20](https://github.com/Raji1009/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/89059861/37a3ee60-4b56-4f13-9964-d69a8571e59a)
 
 ### Output:
-![image](https://github.com/Akshayaamt/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/144870472/025d5694-fdb3-4732-985d-b8ede9cb2ba7)
+![image](https://github.com/Akshayaamt/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/144870472/6a81098e-98ab-4cb6-88aa-2965faadd826)
+
 
 
 ### Name: AKSHAYAA M T
